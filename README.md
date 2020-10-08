@@ -2,8 +2,6 @@
 
 [English](#english)
 
-[Polski](#polski)
-
 ------
 
 ## English
