@@ -1,4 +1,4 @@
-# Allegro MovieDB
+# Srikanth's MovieDB
 
 [English](#english)
 
@@ -54,58 +54,3 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 * [Angular CLI](https://cli.angular.io/) -  a tool to initialize, develop, scaffold and maintain Angular applications
 * [Semantic UI](https://semantic-ui.com/) - a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
 
-### Live demo
-
-Working version of the app is published at https://kraudia.github.io/angular2-movieDB/
-
-------
-
-## Polski
-
-Prosta aplikacja konsumująca [API The Movie DB](https://developers.themoviedb.org/), która spełnia następujące kryteria:
-* można wyszukać dowolny film
-* filmy pasujące do wyszukiwania widać na liście filmów
-* na liście filmów widać następujące informacje o filmach:
-    *  	okładka
-    *  	tytuł
-    *  	data publikacji
-    *  	popularność
-    *  	liczba głosów
-    *  	średnia ocena z głosów
-*   można zobaczyć szczegóły wybranego filmu:
-    *	kategorię filmu (komedia, dramat, etc)
-    *	link do IMDB
-    *	opis filmu
-    *	kraj produkcji
-    *	firmy produkcyjne
-*	można sortować listę filmów po:
-    *	tytule
-
-### Wymagania
-
-Potrzebujesz Node  w wersji 6.9.0 lub nowszej oraz NPM w wersji 3  lub nowszej.
-
-### Instalacja
-
-Najpierw sklonuj tej projekt oraz zainstaluj wszystkie paczki, korzystając z konsoli (wiersza poleceń).
-
-```
-npm install
-```
-A następnie uruchom projekt.
-
-```
-npm start
-```
-
-Projekt jest dostępny na `http://localhost:4200/`. Po każdej zmianie w kodzie aplikacja automatycznie się odswieża.
-
-### Technologie
-
-* [Angular](https://angular.io/) - otwarty framework oparty na TypeScript wspomagający tworzenie i rozwój aplikacji internetowych
-* [Angular CLI](https://cli.angular.io/) -  narzędzie do budowania oraz rozwoju aplikacji pisanych w frameworku Angular
-* [Semantic UI](https://semantic-ui.com/) -  zestaw gotowych fragmentów kodu do tworzenia responsywnych stron internetowych
-
-### Demo
-
-Działająca wersja jest dostępna także na https://kraudia.github.io/angular2-movieDB/
